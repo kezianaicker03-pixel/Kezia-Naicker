@@ -1,0 +1,6 @@
+{
+  "name": "Summer A/C Tune-Up Landing Page",
+  "description": "High-converting single-page landing page for local HVAC company summer tune-up promotion with lead capture form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
